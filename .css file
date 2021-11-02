@@ -1,0 +1,77 @@
+.timetable{
+	width: 70%;
+	border: 5px green;
+}
+
+.caption_css{
+	color: red;
+}
+
+th{
+	background-color:#28ad21;
+	height: 30px;
+	color: white;
+	font-size: 20px;
+}
+
+td{
+	height: 20px;
+	color: black;
+	font-size: 15 px;
+	text-align: center;
+	font-style: unset;
+	border: 1px solid black;
+}
+
+.aus:hover{
+	background-color: yellow;
+}
+
+.eng:hover{
+	background-color: lightblue;
+}
+
+.sl:hover{
+	background-color: lightgoldenrodyellow;
+}
+
+.ind:hover{
+	background-color: royalblue;
+}
+
+.afg:hover{
+	background-color: forestgreen;
+}
+
+.sa:hover{
+	background-color: yellowgreen;
+}
+
+.pak:hover{
+	background-color: lawngreen;
+}
+
+.scot:hover{
+	background-color: blueviolet;
+}
+
+.wi:hover{
+	background-color: #7e201c;
+	
+}
+
+.nz:hover{
+	background-color: grey;
+}
+
+.semi1:hover{
+	background-color: #ffaa00;
+}
+
+.semi2:hover{
+	background-color: #ffaa00;
+}
+
+.final:hover{
+	background-color: #ff0a00;
+}
