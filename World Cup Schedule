@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		T-20 World Cup 
+	</title>
+	<link rel="stylesheet" type="text/css" href="T20.css">
+</head>
+<body>
+	<div>
+		<table class="timetable">
+			<caption class="caption_css">
+				<h1>ICC Cricket T20 World Cup 2021 Schedule</h1>
+			</caption>
+			<tr>
+				<th>Match No.</th>
+				<th>Date</th>
+				<th>Teams</th>
+				<th>Venue</th>
+			</tr>
+			<tr class="aus">
+				<td>1</td>
+				<td>23-OCT</td>
+				<td>AUS vs SA</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="eng">
+				<td>2</td>
+				<td>23-OCT</td>
+				<td>ENG vs WI</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="sl">
+				<td>3</td>
+				<td>24-OCT</td>
+				<td>SL vs BAN</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="ind">
+				<td>4</td>
+				<td>24-OCT</td>
+				<td>IND vs PAK</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="afg">
+				<td>5</td>
+				<td>25-OCT</td>
+				<td>AFG vs SCOT</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="sa">
+				<td>6</td>
+				<td>26-OCT</td>
+				<td>SA vs WI</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="pak">
+				<td>7</td>
+				<td>26-OCT</td>
+				<td>PAK vs NZ</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="eng">
+				<td>8</td>
+				<td>27-OCT</td>
+				<td>ENG vs BAN</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="scot">
+				<td>9</td>
+				<td>27-OCT</td>
+				<td>SCOT vs NAM</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="aus">
+				<td>10</td>
+				<td>28-OCT</td>
+				<td>AUS vs SL</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="wi">
+				<td>11</td>
+				<td>29-OCT</td>
+				<td>WI vs BAN</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="afg">
+				<td>12</td>
+				<td>29-OCT</td>
+				<td>AFG vs PAK</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="sa">
+				<td>13</td>
+				<td>30-OCT</td>
+				<td>SA vs SL</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="eng">
+				<td>14</td>
+				<td>30-OCT</td>
+				<td>ENG vs AUS</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="afg">
+				<td>15</td>
+				<td>31-OCT</td>
+				<td>AFG vs NAM</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="ind">
+				<td>16</td>
+				<td>31-OCT</td>
+				<td>IND vs NZ</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="eng">
+				<td>17</td>
+				<td>01-NOV</td>
+				<td>ENG vs SL</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="sa">
+				<td>18</td>
+				<td>02-NOV</td>
+				<td>SA vs BAN</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="pak">
+				<td>19</td>
+				<td>02-NOV</td>
+				<td>PAK vs NAM</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="nz">
+				<td>20</td>
+				<td>03-NOV</td>
+				<td>NZ vs SCOT</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="ind">
+				<td>21</td>
+				<td>03-NOV</td>
+				<td>IND vs AFG</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="aus">
+				<td>22</td>
+				<td>04-NOV</td>
+				<td>AUS vs BAN</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="wi">
+				<td>23</td>
+				<td>04-NOV</td>
+				<td>WI vs SL</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="nz">
+				<td>24</td>
+				<td>05-NOV</td>
+				<td>NZ vs NAM</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="ind">
+				<td>25</td>
+				<td>05-NOV</td>
+				<td>IND vs SCOT</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr class="aus">
+				<td>26</td>
+				<td>06-NOV</td>
+				<td>AUS vs WI</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="eng">
+				<td>27</td>
+				<td>06-NOV</td>
+				<td>ENG vs SA</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="nz">
+				<td>28</td>
+				<td>07-NOV</td>
+				<td>NZ vs AFG</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="pak">
+				<td>29</td>
+				<td>07-NOV</td>
+				<td>PAK vs SCOT</td>
+				<td>SHARJAH</td>
+			</tr>
+			<tr class="ind">
+				<td>30</td>
+				<td>08-NOV</td>
+				<td>IND vs NAM</td>
+				<td>DUBAI</td>
+			</tr>
+			<tr></tr>
+			<tr class="semi1">
+				<td>1</td>
+				<td>10-NOV</td>
+				<td>GRP-1 1ST vs GRP-2 2ND</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="semi2">
+				<td>2</td>
+				<td>11-NOV</td>
+				<td>GRP-1 2ND vs GRP-2 1ST</td>
+				<td>ABU DHABI</td>
+			</tr>
+			<tr class="final">
+				<td>3</td>
+				<td>14-NOV</td>
+				<td><b>GRAND FINALE</b></td>
+				<td>DUBAI</td>
+			</tr>			
+			
+		</table>
+		
+	</div>
+
+</body>
+</html>
